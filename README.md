@@ -54,7 +54,7 @@ Just dont think we're just working on the Client!
 
 
 # Dev's
-- TerrificTable55 - TerrificTable55#!!!!
-- trollo - trollo#!!!!
+- TerrificTable55 - TerrificTable55#3577
+- trollo - trollo#4890
 
 We're both still in School that means we will most likely not have much time to work on the Client but it will get Updates
